@@ -1,0 +1,6 @@
+'LiouvilleEnergyRH.Lindelof.norm_riemannZeta_le_quarter' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LiouvilleEnergyRH.Lindelof.zeta_strip_bound' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LiouvilleEnergyRH.Lindelof.lindelof' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LiouvilleEnergyRH.zeta_strip_of_H' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LiouvilleEnergyRH.lindelof_of_H' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LiouvilleEnergyRH.riemannHypothesis_of_H' depends on axioms: [propext, Classical.choice, Quot.sound]
